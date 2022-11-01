@@ -5,4 +5,4 @@ function jug(...numbers){
     }
     console.log(sum);
 }
-jug(21,312,4)
+jug(21,312,4,42,24,24)
